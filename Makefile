@@ -12,4 +12,4 @@ serpinski_square: serpinski_square.c
 	gcc -O2 serpinski_square.c -o serpinski_square -lglut -lGL -lGLU
 
 clean:
-	rm serpinski_triangle_1 serpinski_triangle_2
+	rm serpinski_triangle_1 serpinski_triangle_2 serpinski_square
